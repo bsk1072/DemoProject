@@ -1,1 +1,1 @@
-# spring-music project
+# spring-music project for git-jenkins demo
