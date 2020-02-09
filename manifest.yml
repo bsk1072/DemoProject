@@ -4,3 +4,4 @@ applications:
   memory: 2G
   random-route: true
   path: target/spring-music-1.0.0.war
+#test line
